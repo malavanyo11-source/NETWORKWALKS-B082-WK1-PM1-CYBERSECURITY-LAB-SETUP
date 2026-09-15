@@ -1,0 +1,8 @@
+Ping tests were performed between all machines:
+Source → Destination	Result
+Kali → Windows 10	✔️ Successful
+Kali → Windows 11	✔️ Successful
+Kali → Android	✔️ Successful
+Windows 10 → Windows 11	✔️ Successful
+Windows 10 → Android	✔️ Successful
+All VMs → Internet	✔️ Successful
