@@ -1,0 +1,12 @@
+Oracle VirtualBox (VirtualBox-7.2.16-174877-Win)
+Latest recommended version
+Host OS: Windows 10
+Features enabled:
+Nested Paging
+KVM Paravirtualization
+I/O APIC
+Hardware Virtualization
+Shared Resources:
+Clipboard: Bidirectional
+Drag & Drop: Enabled
+Shared Folder: Host Downloads directory (Full Access)
