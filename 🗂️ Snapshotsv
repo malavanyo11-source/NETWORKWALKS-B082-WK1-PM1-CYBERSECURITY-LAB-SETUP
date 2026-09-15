@@ -1,0 +1,6 @@
+Snapshots were created for all machines to preserve clean baseline states:
+Kali Linux – Fresh install
+Windows 10 – Initial configuration
+Windows 11 – Initial configuration
+Android 9 – Initial configuration
+Snapshots allow quick rollback during penetration testing.
