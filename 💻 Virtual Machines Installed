@@ -1,0 +1,19 @@
+🔹 Kali Linux (Attacker Machine)
+IP: 10.0.0.2/24
+Gateway: 10.0.0.1
+DNS: 8.8.8.8
+Role: Penetration testing & ethical hacking
+Status: Internet access verified
+🔹 Windows 10
+IP: 10.0.0.10/24
+Gateway: 10.0.0.1
+Role: Vulnerability testing target
+🔹 Windows 11
+IP: 10.0.0.11/24
+Gateway: 10.0.0.1
+Role: Modern OS security testing
+🔹 Android 9 (Android‑x86)
+IP: 10.0.0.9/24
+Gateway: 10.0.0.1
+DNS: 8.8.8.8
+Role: Mobile security testing
