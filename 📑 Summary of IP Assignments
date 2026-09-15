@@ -1,0 +1,5 @@
+Virtual Machine	OS	Role	Static IP
+Kali Linux	Attacker	Pen‑testing	10.0.0.2
+Windows 10	Target	Vulnerability testing	10.0.0.10
+Windows 11	Target	Modern OS testing	10.0.0.11
+Android 9	Mobile OS	Mobile security testing	10.0.0.9
