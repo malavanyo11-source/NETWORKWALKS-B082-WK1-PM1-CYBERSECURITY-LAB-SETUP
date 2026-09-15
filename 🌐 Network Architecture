@@ -1,0 +1,7 @@
+All virtual machines are connected to a custom NATNetwork:
+Component	Configuration
+Network Name	NatNetwork
+Subnet	10.0.0.0/24
+Gateway	10.0.0.1
+DHCP	Enabled (Static IPs used)
+Internet Access	Enabled
