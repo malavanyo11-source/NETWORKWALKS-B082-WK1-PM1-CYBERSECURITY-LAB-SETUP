@@ -1,0 +1,9 @@
+This repository documents the setup of a Cybersecurity Virtual Lab Environment created for the Cybersecurity Internship (Batch B083A).
+The lab provides a safe, isolated environment for practicing:
+Penetration testing
+Vulnerability assessment
+Network scanning
+Malware analysis
+Mobile security testing
+CTF challenges
+The environment is built using Oracle VirtualBox with multiple operating systems configured on a shared 10.0.0.0/24 NATNetwork.
